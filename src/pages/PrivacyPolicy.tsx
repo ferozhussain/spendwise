@@ -84,7 +84,7 @@ const PrivacyPolicy = () => {
               If you have any questions about this Privacy Policy, please contact us at:
             </p>
             <p className="text-gray-700">
-              Email: privacy@spendwise.app
+              Email: ferain.xyz@gmail.com
             </p>
           </section>
 
