@@ -9,11 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <Link to="/" className="flex items-center">
-              <img 
-                src="https://raw.githubusercontent.com/your-username/spendwise/main/logo.svg" 
-                alt="SpendWise Logo" 
-                className="h-8 w-8 brightness-0 invert"
-              />
+             
               <span className="ml-2 text-xl font-bold">SpendWise</span>
             </Link>
             <p className="mt-4 text-white/80">
