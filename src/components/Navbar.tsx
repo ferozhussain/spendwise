@@ -11,11 +11,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
-              <img 
-                src="https://raw.githubusercontent.com/your-username/spendwise/main/logo.svg" 
-                alt="SpendWise Logo" 
-                className="h-8 w-8"
-              />
+             
               <span className="ml-2 text-xl font-bold bg-gradient-custom bg-clip-text text-transparent">SpendWise</span>
             </Link>
           </div>
