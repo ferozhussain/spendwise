@@ -16,7 +16,7 @@ const LandingPage = () => {
                 Effortlessly monitor your transactions through SMS notifications. No manual entry needed - just install and stay informed.
               </p>
               <a
-                href="#download"
+                href="https://play.google.com/apps/testing/xyz.ferain.spendwise"
                 className="inline-flex items-center px-6 py-3 bg-white text-gradient-start rounded-lg font-semibold hover:bg-gray-100 transition-colors"
               >
                 <Download className="mr-2" />
@@ -150,7 +150,7 @@ const LandingPage = () => {
             Join thousands of users who trust SpendWise for automatic transaction tracking
           </p>
           <a
-            href="#"
+            href="https://play.google.com/apps/testing/xyz.ferain.spendwise"
             className="inline-flex items-center px-8 py-4 bg-gradient-custom text-white rounded-lg font-semibold hover:opacity-90 transition-opacity"
           >
             <Download className="mr-2" />
